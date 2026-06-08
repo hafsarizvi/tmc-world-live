@@ -109,7 +109,7 @@ export default function CategoryPage() {
           <p style={{ color: "rgba(255,255,255,0.6)", fontSize: "15px", lineHeight: 1.7, maxWidth: "480px", margin: "0 auto 28px" }}>
             We are currently adding {category.name} lectures. Subscribe to our YouTube channel to stay updated.
           </p>
-          
+          <a
             href="https://www.youtube.com/@tmclivelk"
             target="_blank"
             rel="noopener noreferrer"

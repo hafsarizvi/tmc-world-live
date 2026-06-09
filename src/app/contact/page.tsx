@@ -35,7 +35,7 @@ export default function ContactPage() {
         "oa1pomq96au1V0Hb-"
       );
       setSubmitted(true);
-    } catch (err) {
+    } catch {
       setError("Something went wrong. Please try again.");
     }
     setLoading(false);
